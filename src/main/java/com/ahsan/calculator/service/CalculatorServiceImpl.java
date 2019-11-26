@@ -1,5 +1,8 @@
 package com.ahsan.calculator.service;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class CalculatorServiceImpl implements CalculatorService {
 
 	@Override
